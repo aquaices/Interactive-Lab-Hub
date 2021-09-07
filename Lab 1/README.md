@@ -83,7 +83,7 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***Summarize feedback you got here.
+\*\***Summarize feedback you got here.  
 There can be more specific description of how divers control the searchlight, such as using a button or even by voice.
 **\*\*
 
@@ -92,13 +92,12 @@ There can be more specific description of how divers control the searchlight, su
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?
+\*\***Are there things that seemed better on paper than acted out?  
 After inspired by the feedback, I add a new way for divers adjusting the brightness of their searchlight. They now can use their voice to control it. 
 
 **\*\*
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?
-
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?  
 There can be more kinds of fancy way to use the searchlight. Basically, divers can control it by using a button on the equipment tied on their hands. Also, the searchlight can be control by voice or even automatically decided by the environment brightness. If it is getting darker as they dive deeper, the brightness will be higher.
 **\*\*
 
