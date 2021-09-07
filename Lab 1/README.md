@@ -68,7 +68,14 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
+\*\***Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.
+Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship. 
+Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.
+Goal: 
+Diver: explore the deep sea
+Commander: give specific instruction of all divers
+Captain&Sailor: control the ship
+**\*\*
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
@@ -83,9 +90,15 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+\*\***Are there things that seemed better on paper than acted out?
+After inspired by the feedback, I add a new way for divers adjusting the brightness of their searchlight. They now can use their voice to control it. 
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+**\*\*
+
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?
+
+There can be more kinds of fancy way to use the searchlight. Basically, divers can control it by using a button on the equipment tied on their hands. Also, the searchlight can be control by voice or even automatically decided by the environment brightness. If it is getting darker as they dive deeper, the brightness will be higher.
+**\*\*
 
 
 ## Part C. Prototype the device
@@ -98,7 +111,9 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
-\*\***Give us feedback on Tinkerbelle.**\*\*
+\*\***Give us feedback on Tinkerbelle.
+There can be more detailed description of the sample color in the bar. If the controller can be a mobile device, it can be much more convenient for remote controlling.
+**\*\*
 
 
 ## Part D. Wizard the device
@@ -119,7 +134,9 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+\*\***What concerns or opportunitities are influencing the way you've designed the device to look?
+The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
+**\*\*
 
 
 ## Part F. Record
