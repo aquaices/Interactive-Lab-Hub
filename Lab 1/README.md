@@ -121,7 +121,7 @@ There can be more detailed description of the sample color in the bar. If the co
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.
+\*\***Include your first attempts at recording the set-up video here.  
 Setup video: https://drive.google.com/file/d/1X7Oy-CHW2Cpc8bUJdBNmTt9KwCquc9Sf/view?usp=sharing
 **\*\*
 
@@ -145,7 +145,9 @@ The extreme environment of deep sea is a challenge for the device. It has to be 
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+\*\***Take a video of your prototyped interaction.  
+Paper prototype interaction: https://drive.google.com/file/d/1ZxTA_JSc283nrmsBhiVVKOua9DMkcYPx/view?usp=sharing
+**\*\*
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
