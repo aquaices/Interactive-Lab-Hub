@@ -83,7 +83,9 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***Summarize feedback you got here.**\*\*
+\*\***Summarize feedback you got here.
+There can be more specific description of how divers control the searchlight, such as using a button or even by voice.
+**\*\*
 
 
 ## Part B. Act out the Interaction
