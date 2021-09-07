@@ -68,13 +68,13 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.
-Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship. 
-Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.
-Goal: 
-Diver: explore the deep sea
-Commander: give specific instruction of all divers
-Captain&Sailor: control the ship
+\*\***Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
+Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship.  
+Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.  
+Goal:   
+Diver: explore the deep sea  
+Commander: give specific instruction of all divers  
+Captain&Sailor: control the ship  
 **\*\*
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
