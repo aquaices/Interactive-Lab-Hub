@@ -136,7 +136,9 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your device might look like here.**\*\*
+\*\***Include sketches of what your device might look like here.
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/sketch1.jpg)
+**\*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?
 The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
@@ -151,7 +153,7 @@ Paper prototype interaction: https://drive.google.com/file/d/1ZxTA_JSc283nrmsBhi
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224) and modified my prototype design depends on that.
 
 
 # Staging Interaction, Part 2 
