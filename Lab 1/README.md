@@ -68,7 +68,8 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
+\*\***
+Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
 Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship.  
 Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.  
 Goal:   
@@ -84,7 +85,7 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 ![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
 
-\*\***Summarize feedback you got here.  
+\*\***Summarize feedback you got here.   
 There can be more specific description of how divers control the searchlight, such as using a button or even by voice.
 **\*\*
 
@@ -113,7 +114,7 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
-\*\***Give us feedback on Tinkerbelle.
+\*\***Give us feedback on Tinkerbelle.  
 There can be more detailed description of the sample color in the bar. If the controller can be a mobile device, it can be much more convenient for remote controlling.
 **\*\*
 
@@ -140,7 +141,7 @@ Think about the setting of the device: is the environment a place where the devi
 ![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/sketch1.jpg)
 **\*\*
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?
+\*\***What concerns or opportunitities are influencing the way you've designed the device to look?  
 The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
 **\*\*
 
@@ -151,8 +152,8 @@ The extreme environment of deep sea is a challenge for the device. It has to be 
 Paper prototype interaction: https://drive.google.com/file/d/1ZxTA_JSc283nrmsBhiVVKOua9DMkcYPx/view?usp=sharing
 **\*\*
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*  
+Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design.   
 In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224) and modified my prototype design depends on that.
 
 
