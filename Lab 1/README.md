@@ -167,6 +167,7 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+From the feedback of my peer, there are some places that can be improved and some more functions can be added. Light communication system is a good idea for the diver in the deep sea. Also, I am thinking about putting lights on the rope that falling from the ship towards the deep sea area where the diver is. It is a kind of instruction for them to assemble and go back. The control button on the screen need to be redesign. Now they are a little bit small and not easy to manipulate. The storyboard can be polished as well for showing more details of the light system for the deep sea.
 
 ## Make it your own
 
