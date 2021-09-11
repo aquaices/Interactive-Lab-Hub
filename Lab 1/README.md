@@ -68,7 +68,7 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***
+
 Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
 Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship.  
 Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.  
@@ -76,7 +76,7 @@ Goal:
 Diver: explore the deep sea  
 Commander: give specific instruction of all divers  
 Captain&Sailor: control the ship  
-**\*\*
+
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
@@ -178,6 +178,19 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 ## Part A. Plan
+
+To stage the interaction with your interactive device, think about:
+
+_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+
+_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+
+_Activity:_ What is happening between the actors?
+
+_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+
+The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
+
 Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
 Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship.  
 Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.  
@@ -186,12 +199,44 @@ Diver: explore the deep sea
 Commander: give specific instruction of all divers  
 Captain&Sailor: control the ship  
 
+Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+
+Storyboard:  
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard_revised.jpg)
+In the storyboard, the diver are exploring the deep sea with the searchlight on their head. Under different circumstance, they adjust the brightness of the lights. When they finish the task and would like to float up, the signal lights on the rope shines and give them way home.
+
+
 
 ## Part B. Act out the Interaction
 
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+\*\***Are there things that seemed better on paper than acted out?  
+After inspired by the feedback, I add signal light on rope for divers as assemble point. They now can use it to gather together. 
+
+**\*\*
+
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?  
+There can be more kinds of fancy way to use the searchlight. Basically, divers can control it by using a button on the equipment tied on their hands. Also, the searchlight can be control by voice or even automatically decided by the environment brightness. If it is getting darker as they dive deeper, the brightness will be higher.
+**\*\*
+
 ## Part C. Prototype the device
+You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
+
+Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
+
+We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
+**Give us feedback on Tinkerbelle.**  
+There can be more detailed description of the sample color in the bar. If the controller can be a mobile device, it can be much more convenient for remote controlling.
 
 ## Part D. Wizard the device
+Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+
+**Include your first attempts at recording the set-up video here.**  
+Setup video: https://drive.google.com/file/d/1X7Oy-CHW2Cpc8bUJdBNmTt9KwCquc9Sf/view?usp=sharing
 
 ## Part E. Costume the device
 
