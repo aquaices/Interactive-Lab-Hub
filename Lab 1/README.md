@@ -80,28 +80,28 @@ Captain&Sailor: control the ship
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-\*\***Include a picture of your storyboard here**\*\*
+**Include a picture of your storyboard here**  
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 ![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
 
-\*\***Summarize feedback you got here.   
+**Summarize feedback you got here.**     
 There can be more specific description of how divers control the searchlight, such as using a button or even by voice.
-**\*\*
+
 
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?  
+**Are there things that seemed better on paper than acted out?**    
 After inspired by the feedback, I add a new way for divers adjusting the brightness of their searchlight. They now can use their voice to control it. 
 
-**\*\*
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?  
+
+**Are there new ideas that occur to you or your collaborators that come up from the acting?**    
 There can be more kinds of fancy way to use the searchlight. Basically, divers can control it by using a button on the equipment tied on their hands. Also, the searchlight can be control by voice or even automatically decided by the environment brightness. If it is getting darker as they dive deeper, the brightness will be higher.
-**\*\*
+
 
 
 ## Part C. Prototype the device
@@ -122,9 +122,9 @@ There can be more detailed description of the sample color in the bar. If the co
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.  
+**Include your first attempts at recording the set-up video here.**    
 Setup video: https://drive.google.com/file/d/1X7Oy-CHW2Cpc8bUJdBNmTt9KwCquc9Sf/view?usp=sharing
-**\*\*
+
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
@@ -211,14 +211,14 @@ In the storyboard, the diver are exploring the deep sea with the searchlight on 
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?  
+**Are there things that seemed better on paper than acted out?**    
 After inspired by the feedback, I add signal light on rope for divers as assemble point. They now can use it to gather together. 
 
-**\*\*
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?  
+
+**Are there new ideas that occur to you or your collaborators that come up from the acting?**  
 There can be more kinds of fancy way to use the searchlight. Basically, divers can control it by using a button on the equipment tied on their hands. Also, the searchlight can be control by voice or even automatically decided by the environment brightness. If it is getting darker as they dive deeper, the brightness will be higher.
-**\*\*
+
 
 ## Part C. Prototype the device
 You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
@@ -239,7 +239,19 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 Setup video: https://drive.google.com/file/d/1X7Oy-CHW2Cpc8bUJdBNmTt9KwCquc9Sf/view?usp=sharing
 
 ## Part E. Costume the device
+Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
+
+Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
+
+**Include sketches of what your device might look like here.**  
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/sketch_revised.jpg)
+
+
+**What concerns or opportunitities are influencing the way you've designed the device to look?**  
+The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
 
 ## Part F. Record
-
-
+Paper prototype interaction:https://drive.google.com/file/d/1CmAjadTD2kutwnVCDEaKVWNKbrzNQYfu/view?usp=sharing
+**Please indicate anyone you collaborated with on this Lab.**  
+Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design.   
+In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224), Eunsol Soul Choi, Yixuan Li and Joseph Cera and modified my prototype design depends on that.
