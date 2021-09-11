@@ -177,3 +177,24 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+## Part A. Plan
+Setting: The interaction happens in the deep sea. The circumstance is a scientific exploration of the a certain area of the sea in the midnight.  
+Players: A group of divers(about 5 people) is directly involved in the interaction. Also, there is a captain, some sailors and a commander of the whole event on the ship.  
+Activity: The ship is parked in the area that the group would like to explore. Then, the diver get into the water by the instruction of the commander. They dive deeper in a few hours. At the destination depth, they adjust the brightness of their searchlight and observe the environment of the deep sea.  
+Goal:   
+Diver: explore the deep sea  
+Commander: give specific instruction of all divers  
+Captain&Sailor: control the ship  
+
+
+## Part B. Act out the Interaction
+
+## Part C. Prototype the device
+
+## Part D. Wizard the device
+
+## Part E. Costume the device
+
+## Part F. Record
+
+
