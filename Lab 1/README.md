@@ -114,9 +114,9 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
-\*\***Give us feedback on Tinkerbelle.  
+**Give us feedback on Tinkerbelle.**    
 There can be more detailed description of the sample color in the bar. If the controller can be a mobile device, it can be much more convenient for remote controlling.
-**\*\*
+
 
 
 ## Part D. Wizard the device
@@ -128,7 +128,7 @@ Setup video: https://drive.google.com/file/d/1X7Oy-CHW2Cpc8bUJdBNmTt9KwCquc9Sf/v
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
-\*\***Show the follow-up work here.**\*\*
+**Show the follow-up work here.**
 
 
 ## Part E. Costume the device
@@ -137,22 +137,22 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your device might look like here.
+**Include sketches of what your device might look like here.**  
 ![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%201/sketch1.jpg)
-**\*\*
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?  
+
+**What concerns or opportunitities are influencing the way you've designed the device to look?**   
 The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
-**\*\*
+
 
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.  
+**Take a video of your prototyped interaction.**    
 Paper prototype interaction: https://drive.google.com/file/d/1ZxTA_JSc283nrmsBhiVVKOua9DMkcYPx/view?usp=sharing
-**\*\*
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*  
+
+**Please indicate anyone you collaborated with on this Lab.**  
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design.   
 In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224) and modified my prototype design depends on that.
 
@@ -251,7 +251,9 @@ Think about the setting of the device: is the environment a place where the devi
 The extreme environment of deep sea is a challenge for the device. It has to be firm enough to resist the high water pressure. Also, it has to stay functional under the low temperature. Waterproof is certainly necessary. The surface of the device is covered by fluorescence materials, so when the device is dead accidentally, the diver can still be seen through the light reflection of the device. 
 
 ## Part F. Record
-Paper prototype interaction:https://drive.google.com/file/d/1CmAjadTD2kutwnVCDEaKVWNKbrzNQYfu/view?usp=sharing
-**Please indicate anyone you collaborated with on this Lab.**  
+
+Paper prototype interaction:https://drive.google.com/file/d/1CmAjadTD2kutwnVCDEaKVWNKbrzNQYfu/view?usp=sharing  
+
+**Please indicate anyone you collaborated with on this Lab.**    
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design.   
 In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224), Eunsol Soul Choi, Yixuan Li and Joseph Cera and modified my prototype design depends on that.
