@@ -256,4 +256,4 @@ Paper prototype interaction:https://drive.google.com/file/d/1CmAjadTD2kutwnVCDEa
 
 **Please indicate anyone you collaborated with on this Lab.**    
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design.   
-In part 1 of this lab, I got feedback from Ruoyu Zhou(rz224), Eunsol Soul Choi, Yixuan Li and Joseph Cera and modified my prototype design depends on that.
+In part 2 of this lab, I got feedback from Ruoyu Zhou(rz224), Eunsol Soul Choi, Yixuan Li and Joseph Cera and modified my prototype design depends on that.
