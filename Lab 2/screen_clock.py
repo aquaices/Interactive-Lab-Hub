@@ -106,6 +106,8 @@ while True:
         period = 'afternoon'
         period_fill = "#FF60AF"
     elif hour >= 18 and hour < 24:
+        period = 'evening'
+        period_fill = "#0080FF"
 
         currentTime = strftime("%m/%d/%Y %H:%M:%S")
         sentence = choice(messages)
