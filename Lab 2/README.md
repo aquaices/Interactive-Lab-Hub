@@ -195,7 +195,11 @@ https://drive.google.com/file/d/1YAv4hesIXdwVbzxeGE03aSbMjlfisGyq/view?usp=shari
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%202/IMG_2295.JPG)
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%202/IMG_2296.JPG)
 
+There can be more detailed picture for the four periods in a day. For instance, there is a coffee cup icon for afternoon, which uses afternoon tea to stands for the time.  
+And besides time periods, some specific time can also be set, such as lunch time. And the time of lunch or what the menu is for it is shown on the screen.  
 
 # Prep for Part 2
 
