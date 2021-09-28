@@ -79,6 +79,11 @@ messages = [
 
 ]
 
+def image_reform(image1, width, height):
+    image1 = image1.convert('RGB')
+    image1 = image1.resize((240, 135), Image.BICUBIC)
+    return image1
+
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
@@ -89,11 +94,19 @@ while True:
     txt2 = "Bottom: Time Period"
     txt3 = "Both: message"
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
-    draw.text((x, y), txt1, font=font, fill="#00FFFF")
+
+    image1 = Image.open("clock.jpg")
+    image1 = image_reform(image1, width, height)
+    draw = ImageDraw.Draw(image1)
+    x = 65
+    y = 30
+
+    draw.text((x, y), txt1, font=font, fill="#C333FF")
     y += font.getsize(txt1)[1]
-    draw.text((x, y), txt2, font=font, fill="#1AFD9C")
+    draw.text((x, y), txt2, font=font, fill="#C333FF")
     # y += font.getsize(txt2)[1]
     # draw.text((x, y), txt3, font=font, fill="#0000FF")
+
 
     hour = int(strftime("%H"))
     if hour >= 0 and hour < 6:
@@ -113,18 +126,18 @@ while True:
         sentence = choice(messages)
         y = top
 
-        if buttonB.value and not buttonA.value:  # just button A pressed
-            draw.rectangle((0, 0, width, height), outline=0, fill=0)
-            draw.text((x, y), currentTime, font=font, fill="#FFFFFF")
-        if buttonA.value and not buttonB.value:  # just button B pressed
-            draw.rectangle((0, 0, width, height), outline=0, fill=period_fill)
-            draw.text((x, y), period, font=font, fill="#0000FF")
+    if buttonB.value and not buttonA.value:  # just button A pressed
+        draw.rectangle((0, 0, width, height), outline=0, fill=0)
+        draw.text((x, y), currentTime, font=font, fill="#FFFFFF")
+    if buttonA.value and not buttonB.value:  # just button B pressed
+        draw.rectangle((0, 0, width, height), outline=0, fill=period_fill)
+        draw.text((x, y), period, font=font, fill="#0000FF")
 
-            draw.text((x, y + 20), sentence, font=font, fill="#FFFFFF")
-        if not buttonA.value and not buttonB.value:  # none pressed
-            draw.rectangle((0, 0, width, height), outline=0, fill=0)
-            draw.text((x, y), sentence, font=font, fill="#FFFFFF")
+        draw.text((x, y + 20), sentence, font=font, fill="#FFFFFF")
+    if not buttonA.value and not buttonB.value:  # none pressed
+        draw.rectangle((0, 0, width, height), outline=0, fill=0)
+        draw.text((x, y), sentence, font=font, fill="#FFFFFF")
 
     # Display image.
-    disp.image(image, rotation)
+    disp.image(image1, rotation)
     time.sleep(1)
