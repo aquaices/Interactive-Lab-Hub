@@ -222,8 +222,9 @@ And besides time periods, some specific time can also be set, such as lunch time
 
 Pull Interactive Lab Hub updates to your repo.
 
-Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
-
+Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.  
+Modified Version: https://drive.google.com/file/d/1vFiJij5qU7KSMwtoL-8T4bOauXpgjl2T/view?usp=sharing  
+In the part 2 of the lab, I added a desktop picture for my clock in the main page. And I also modified the position of the menu and corresponding message shown in the screen.  
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
