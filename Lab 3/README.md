@@ -54,7 +54,7 @@ Now, you might wonder what exactly is a `.sh` file? Typically, a `.sh` file is a
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-(This shell file should be saved to your own repo for this lab.)
+(This shell file should be saved to your own repo for this lab.)  
 Written in my_demo_greeting.sh
 
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
@@ -67,7 +67,7 @@ In particular, look at `test_words.py` and make sure you understand how the voca
 
 One thing you might need to pay attention to is the audio input setting of Pi. Since you are plugging the USB cable of your webcam to your Pi at the same time to act as speaker, the default input might be set to the webcam microphone, which will not be working for recording.
 
-\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*  
 Written in my_demo_numerical.sh
 
 Bonus Activity:
@@ -108,14 +108,14 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 ![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%203/design.jpg)
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
-\*\***Please describe and document your process.**\*\*
+\*\***Please describe and document your process.**\*\*  
 This is a commucation device for the diver who are in the deep sea and the others who would like to talk them on the ship. Besides the basic communication function, there is also a screen on the device for the diver. The device has the text recognition function and can show the text of the speech from the other people, in case they miss something during their deep sea exploration. And there are two buttons, one is for responding and one is for radio silence. When the diver want to talk, they can use the first one. And when they find something interesting and do not want to be disturbed by the radio, they can press the "On/Off" to mute the device.
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
-\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*  
 During the interaction, I found that it is more difficult for my as the device to act the behavior of the button on the device. When my partner want to use the button, she has to say it out instead of pressing something.
 
 ### Wizarding with the Pi (optional)
