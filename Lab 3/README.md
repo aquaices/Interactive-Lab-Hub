@@ -141,8 +141,11 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+Participants can talk to the device about what they would like to say. Then, with the speech recognization engine in the Pi, the text of the speech will be shown in the terminal.
 
 *Include videos or screencaptures of both the system and the controller.*
+System:  
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%203/system.jpg)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -150,18 +153,23 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
 
-### What worked well about the controller and what didn't?
+The play function of the Pi works well. I can modify the script and make it play any sentence. The text that transferred from the speech is not 100% precise. For instance, the word 'Hi' is recognized as 'Five', etc. Therefore, there is difficulty for users to understand what they actually say.  
 
-\*\**your answer here*\*\*
+### What worked well about the controller and what didn't?  
+
+The Pi speaks well after I type the text in the box and press send. 
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+There can be some sample texts under the text box for users to choose. So they do not need to type it by themselves.
+
+
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+I would like to use Pi to collect the dialogues between participants. The text recognized by the speech2text engine will be recorded and stored. And they can collabrate with the audio files of what participants say before as a complete dataset. The video of the users can also be collected. When the system sense the facial movement, such as the movement of mouth, of the user, it starts recording for what the user say next.
+
+
 
