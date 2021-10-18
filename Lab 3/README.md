@@ -54,7 +54,8 @@ Now, you might wonder what exactly is a `.sh` file? Typically, a `.sh` file is a
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-(This shell file should be saved to your own repo for this lab.)
+(This shell file should be saved to your own repo for this lab.)  
+Written in my_demo_greeting.sh
 
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
 
@@ -66,7 +67,8 @@ In particular, look at `test_words.py` and make sure you understand how the voca
 
 One thing you might need to pay attention to is the audio input setting of Pi. Since you are plugging the USB cable of your webcam to your Pi at the same time to act as speaker, the default input might be set to the webcam microphone, which will not be working for recording.
 
-\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*  
+Written in my_demo_numerical.sh
 
 Bonus Activity:
 
@@ -102,16 +104,19 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
-
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%203/storyboard.jpg)
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%203/design.jpg)
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
-\*\***Please describe and document your process.**\*\*
+\*\***Please describe and document your process.**\*\*  
+This is a commucation device for the diver who are in the deep sea and the others who would like to talk them on the ship. Besides the basic communication function, there is also a screen on the device for the diver. The device has the text recognition function and can show the text of the speech from the other people, in case they miss something during their deep sea exploration. And there are two buttons, one is for responding and one is for radio silence. When the diver want to talk, they can use the first one. And when they find something interesting and do not want to be disturbed by the radio, they can press the "On/Off" to mute the device.
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
-\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*  
+During the interaction, I found that it is more difficult for my as the device to act the behavior of the button on the device. When my partner want to use the button, she has to say it out instead of pressing something.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
@@ -136,8 +141,11 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+Participants can talk to the device about what they would like to say. Then, with the speech recognization engine in the Pi, the text of the speech will be shown in the terminal.
 
 *Include videos or screencaptures of both the system and the controller.*
+System:  
+![](https://github.com/aquaices/Interactive-Lab-Hub/blob/Fall2021/Lab%203/system.jpg)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -145,18 +153,23 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
 
-### What worked well about the controller and what didn't?
+The play function of the Pi works well. I can modify the script and make it play any sentence. The text that transferred from the speech is not 100% precise. For instance, the word 'Hi' is recognized as 'Five', etc. Therefore, there is difficulty for users to understand what they actually say.  
 
-\*\**your answer here*\*\*
+### What worked well about the controller and what didn't?  
+
+The Pi speaks well after I type the text in the box and press send. 
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+There can be some sample texts under the text box for users to choose. So they do not need to type it by themselves.
+
+
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+I would like to use Pi to collect the dialogues between participants. The text recognized by the speech2text engine will be recorded and stored. And they can collabrate with the audio files of what participants say before as a complete dataset. The video of the users can also be collected. When the system sense the facial movement, such as the movement of mouth, of the user, it starts recording for what the user say next.
+
+
 
